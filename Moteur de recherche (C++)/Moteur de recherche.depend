@@ -1,0 +1,187 @@
+# depslib dependency file v1.0
+1578011046 source:c:\users\asus\desktop\projet c++\moteur de recherche\fichier.cpp
+	<iostream>
+	<stdlib.h>
+	<dirent.h>
+	<sys/types.h>
+	"fichier.h"
+
+1578011055 c:\users\asus\desktop\projet c++\moteur de recherche\fichier.h
+
+1578578692 source:c:\users\asus\desktop\projet c++\moteur de recherche\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<dirent.h>
+	<cstring>
+	<sstream>
+	<algorithm>
+	<string>
+	<sys/types.h>
+	"analyseur.h"
+	"analyseurbis.h"
+	"fichier.h"
+	"lecteur.h"
+	"directory.h"
+	"indexeur.h"
+	"MdR.h"
+	"ana.h"
+	"MdRone.h"
+	"MdRtwo.h"
+	<bits/stdc++.h>
+
+1577204941 source:c:\users\asus\desktop\projet c++\moteur de recherche\lecteur.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"fichier.h"
+	"lecteur.h"
+
+1577227654 c:\users\asus\desktop\projet c++\moteur de recherche\lecteur.h
+	<vector>
+	"fichier.h"
+
+1578511420 c:\users\asus\desktop\projet c++\moteur de recherche\analyseur.h
+	<map>
+	"fichier.h"
+	"lecteur.h"
+	"ana.h"
+
+1578580882 source:c:\users\asus\desktop\projet c++\moteur de recherche\analyseur.cpp
+	<iostream>
+	<stdlib.h>
+	<iterator>
+	<algorithm>
+	<string>
+	"analyseur.h"
+	"fichier.h"
+	"lecteur.h"
+	"ana.h"
+
+1577847216 source:c:\users\asus\desktop\projet c++\moteur de recherche\directory.cpp
+	<iostream>
+	<dirent.h>
+	<sys/types.h>
+	"fichier.h"
+	"directory.h"
+
+1577847230 c:\users\asus\desktop\projet c++\moteur de recherche\directory.h
+	<vector>
+	<iostream>
+	<dirent.h>
+	<sys/types.h>
+	"fichier.h"
+	"directory.h"
+
+1578580039 source:c:\users\asus\desktop\projet c++\moteur de recherche\indexeur.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	"fichier.h"
+	"indexeur.h"
+	"lecteur.h"
+	"analyseur.h"
+	<iterator>
+	<algorithm>
+	<string>
+
+1578505050 c:\users\asus\desktop\projet c++\moteur de recherche\indexeur.h
+	"lecteur.h"
+	"fichier.h"
+	"analyseur.h"
+	<map>
+
+1578532086 c:\users\asus\desktop\projet c++\moteur de recherche\mdr.h
+
+1578580124 source:c:\users\asus\desktop\projet c++\moteur de recherche\mdr.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	"fichier.h"
+	"indexeur.h"
+	"lecteur.h"
+	"analyseur.h"
+	"directory.h"
+	"MdR.h"
+	<iterator>
+	<algorithm>
+	<string>
+	<vector>
+	<bits/stdc++.h>
+
+1578511555 c:\users\asus\desktop\projet c++\moteur de recherche\ana.h
+	<map>
+	"fichier.h"
+	"lecteur.h"
+
+1578580879 source:c:\users\asus\desktop\projet c++\moteur de recherche\analyseurbis.cpp
+	<iostream>
+	<stdlib.h>
+	<iterator>
+	<algorithm>
+	<string>
+	"analyseurbis.h"
+	"fichier.h"
+	"lecteur.h"
+	"ana.h"
+
+1578506624 c:\users\asus\desktop\projet c++\moteur de recherche\analyseurbis.h
+	<map>
+	"fichier.h"
+	"lecteur.h"
+	"ana.h"
+
+1578526987 source:c:\users\asus\desktop\projet c++\moteur de recherche\mdrone.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	"fichier.h"
+	"indexeur.h"
+	"lecteur.h"
+	"analyseur.h"
+	"directory.h"
+	"MdR.h"
+	"MdRone.h"
+	<iterator>
+	<algorithm>
+	<string>
+	<vector>
+	<bits/stdc++.h>
+
+1578512431 c:\users\asus\desktop\projet c++\moteur de recherche\mdrone.h
+
+1578511628 source:c:\users\asus\desktop\projet c++\moteur de recherche\ana.cpp
+	<iostream>
+	<stdlib.h>
+	<iterator>
+	<algorithm>
+	<string>
+	"ana.h"
+	"fichier.h"
+	"lecteur.h"
+
+1578526408 source:c:\users\asus\desktop\projet c++\moteur de recherche\mdrtwo.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	"fichier.h"
+	"indexeur.h"
+	"lecteur.h"
+	"analyseur.h"
+	"directory.h"
+	"MdR.h"
+	"MdRone.h"
+	"MdRtwo.h"
+	<iterator>
+	<algorithm>
+	<string>
+	<vector>
+	<bits/stdc++.h>
+
+1578512843 c:\users\asus\desktop\projet c++\moteur de recherche\mdrtwo.h
+	"MdR.h"
+

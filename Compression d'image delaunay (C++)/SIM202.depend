@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1585733348 source:c:\users\yassine\desktop\projetcompressiondimage\arete.cpp
+	"Arete.h"
+
+1585733350 c:\users\yassine\desktop\projetcompressiondimage\arete.h
+	<ostream>
+	"Point.h"
+
+1585733368 c:\users\yassine\desktop\projetcompressiondimage\point.h
+	<iostream>
+	<cmath>
+
+1585733350 source:c:\users\yassine\desktop\projetcompressiondimage\decom.cpp
+	"Decom.h"
+	<algorithm>
+	<iostream>
+	<fstream>
+
+1585733350 c:\users\yassine\desktop\projetcompressiondimage\decom.h
+	<iostream>
+	<fstream>
+	"Point.h"
+	"Triangle.h"
+	"Maillage.h"
+	<map>
+
+1585733370 c:\users\yassine\desktop\projetcompressiondimage\triangle.h
+	"Point.h"
+
+1585733368 c:\users\yassine\desktop\projetcompressiondimage\maillage.h
+	<vector>
+	<array>
+	<algorithm>
+	<set>
+	<map>
+	<unordered_map>
+	<unordered_set>
+	"Point.h"
+	"Triangle.h"
+	"Arete.h"
+
+1585733350 source:c:\users\yassine\desktop\projetcompressiondimage\ex1.cpp
+	<iostream>
+	<vector>
+	"image.h"
+	"extracteur.h"
+	"ex1.h"
+
+1585733364 c:\users\yassine\desktop\projetcompressiondimage\image.h
+	<vector>
+	<string>
+	"Point.h"
+	<bits/stdc++.h>
+
+1585733364 c:\users\yassine\desktop\projetcompressiondimage\extracteur.h
+	"Point.h"
+
+1585733350 c:\users\yassine\desktop\projetcompressiondimage\ex1.h
+	"extracteur.h"
+
+1585733350 source:c:\users\yassine\desktop\projetcompressiondimage\ex2.cpp
+	<iostream>
+	<vector>
+	"image.h"
+	"extracteur.h"
+	"ex2.h"
+
+1585733350 c:\users\yassine\desktop\projetcompressiondimage\ex2.h
+	"extracteur.h"
+
+1585733350 source:c:\users\yassine\desktop\projetcompressiondimage\extracteur.cpp
+	<iostream>
+	<vector>
+	"image.h"
+	"extracteur.h"
+
+1585733366 source:c:\users\yassine\desktop\projetcompressiondimage\image.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	"image.h"
+
+1585784841 source:c:\users\yassine\desktop\projetcompressiondimage\maillage.cpp
+	<queue>
+	<random>
+	<ctime>
+	"Maillage.h"
+	"Arete.h"
+	"Vecteur.h"
+
+1585733372 c:\users\yassine\desktop\projetcompressiondimage\vecteur.h
+	"Point.h"
+
+1585733368 source:c:\users\yassine\desktop\projetcompressiondimage\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<random>
+	<chrono>
+	"Point.h"
+	"Triangle.h"
+	"Maillage.h"
+	"image.h"
+	"extracteur.h"
+	<windows.h>
+	"Decom.h"
+	"ex1.h"
+	"ex2.h"
+	<vector>
+	<math.h>
+
+1585733368 source:c:\users\yassine\desktop\projetcompressiondimage\point.cpp
+	"Point.h"
+
+1585733370 source:c:\users\yassine\desktop\projetcompressiondimage\triangle.cpp
+	"Triangle.h"
+
+1585733372 source:c:\users\yassine\desktop\projetcompressiondimage\vecteur.cpp
+	"Vecteur.h"
+
+1585733368 source:c:\users\yassine\desktop\projetcompressiondimage\mainbis.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<random>
+	<chrono>
+	"Point.h"
+	"Triangle.h"
+	"Maillage.h"
+	"image.h"
+	"extracteur.h"
+	<windows.h>
+	"Decom.h"
+	"ex1.h"
+	"ex2.h"
+
